@@ -1,0 +1,6 @@
+# IntelloKids – all public pages may be crawled. Private screens (parents' and
+# children's areas) are app screens marked "noindex" and are never in the sitemap.
+User-agent: *
+Allow: /
+
+Sitemap: https://intellokids.com/sitemap.xml
